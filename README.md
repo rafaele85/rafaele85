@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafaele85
 - 👀 I’m interested in Typescript, React, Node.js, Web3, Blockchain
-- 🌱 I’m currently learning Web3, Blockchain, deno
+- 🌱 I’m currently learning AI-assisted development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
